@@ -15,12 +15,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Manchester Evening News: [Many key workers vital in the fight against coronavirus are earning less than the real living wage](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/many-key-workers-vital-fight-18029086) *2 April 2020*
 * Metro: [Frontline workers ‘should be given a special coronavirus allowance’](https://metro.co.uk/2020/04/02/frontline-workers-given-special-coronavirus-allowance-12496379/) *2 April 2020*
 * The Irish News: [Quarter of workers in Northern Ireland earn less than 'real living wage'](https://www.irishnews.com/news/council/2020/04/02/news/quarter-of-workers-in-northern-ireland-earn-less-than-real-living-wage--1887905/) *2 April 2020*
+* Sheffield: The Star: [Call for cash allowance for key workers during pandemic](https://www.thestar.co.uk/health/call-cash-allowance-key-workers-during-pandemic-2526526) *2 April 2020*
+* The Inverness Courier: [New figures show one in five Highland employees, including key workers during the coronavirus crisis, are paid less than the real living wage](https://www.inverness-courier.co.uk/news/one-in-five-highland-employees-paid-less-than-the-real-living-wage-195575/) *2 April 2020*
 * Cambridgeshire Live: [Thousands of Cambridgeshire key workers not paid the real living wage](https://www.cambridge-news.co.uk/news/local-news/thousands-cambridgeshire-key-workers-not-18031979) *2 April 2020*
 * Yorkshire Live: [Ambulance staff and key workers earning less than real living wage](https://www.examinerlive.co.uk/news/west-yorkshire-news/ambulance-staff-key-workers-earning-18029736) *2 April 2020*
 * MK Citizen: [More than 20,000 coronavirus crisis key workers are earning less than the real living wage in Milton Keynes](https://www.miltonkeynes.co.uk/health/coronavirus/more-20000-coronavirus-crisis-key-workers-are-earning-less-real-living-wage-milton-keynes-2527113) *2 April 2020*
 * Surrey Live: [All the key workers in Surrey paid less than the real living wage](https://www.getsurrey.co.uk/news/surrey-news/key-workers-surrey-paid-less-18033278) *2 April 2020*
 * The Bucks Herald: [16.5% of Aylesbury Vale key workers not paid the 'real living wage', figures reveal](https://www.bucksherald.co.uk/news/people/165-aylesbury-vale-key-workers-not-paid-real-living-wage-figures-reveal-2527376) *2 April 2020*
 * Kent Live: [The key workers in Kent paid less than the real living wage](https://www.kentlive.news/news/kent-news/key-workers-kent-paid-less-4014497) *2 April 2020*
+* The London Economic: [Data indicates over 3 million key workers earn below living wage](https://www.thelondoneconomic.com/news/data-indicates-over-3-million-key-workers-earn-below-living-wage/02/04/) *2 April 2020*
 * Berkshire Live: [The key workers in Berkshire being paid less than the real living wage](https://www.getreading.co.uk/news/reading-berkshire-news/key-workers-berkshire-being-paid-18033345) *3 April 2020*
 * Edinburgh Live: [Thousands of Edinburgh key workers are earning less than the real living wage](https://www.edinburghlive.co.uk/news/edinburgh-news/thousands-edinburgh-key-workers-earning-18035655) *3 April 2020*
 * Eastern Daily Press: [Revealed: More than 35,000 key coronavirus workers in the county do not earn a living wage](https://www.edp24.co.uk/news/health/35-000-key-workers-in-norfolk-not-on-living-wage-1-6592826) *3 April 2020*
@@ -34,6 +37,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Teesside Live: [The key workers among thousands on Teesside being paid less than the real living wage](https://www.gazettelive.co.uk/news/teesside-news/key-workers-among-thousands-teesside-18040712) *5 April 2020*
 * My Welshpool: [Many local key workers earning below real living wage](http://www.mywelshpool.co.uk/viewerheadline/ArticleId/18544) *5 April 2020*
 * Nottinghamshire Live: [The Nottinghamshire key workers who are earning less than the real living wage](https://www.nottinghampost.com/news/nottingham-news/nottinghamshire-key-workers-who-earning-4021817) *6 April 2020*
+* Hemel Today: [Thousands of coronavirus key workers are earning less than the real living wage in Dacorum](https://www.hemeltoday.co.uk/health/coronavirus/thousands-coronavirus-key-workers-are-earning-less-real-living-wage-dacorum-2530425) *6 April 2020*
+* Coventry Live: [Many key workers are earning less than the real living wage](https://www.coventrytelegraph.net/news/coventry-news/many-key-workers-earning-less-18030031) *6 April 2020*
+
 
 
 
