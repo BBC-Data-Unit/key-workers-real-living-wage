@@ -1,5 +1,7 @@
 # Coronavirus: Firms urged to honour living wage pledge
 
+![](https://ichef.bbci.co.uk/news/660/cpsprodpb/3320/production/_111488031_mediaitem99685142.jpg)
+
 In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52110652) hundreds of thousands of key workers considered critical to the UK’s response to the coronavirus crisis were earning below the so-called “real living wage”.
 
 The real living wage is a voluntary scheme devised by the Living Wage Foundation.  It is calculated independently from the government and is based on costs such as food, clothing and household bills. 
