@@ -17,6 +17,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Irish News: [Quarter of workers in Northern Ireland earn less than 'real living wage'](https://www.irishnews.com/news/council/2020/04/02/news/quarter-of-workers-in-northern-ireland-earn-less-than-real-living-wage--1887905/) *2 April 2020*
 * Cambridgeshire Live: [Thousands of Cambridgeshire key workers not paid the real living wage](https://www.cambridge-news.co.uk/news/local-news/thousands-cambridgeshire-key-workers-not-18031979) *2 April 2020*
 * Yorkshire Live: [Ambulance staff and key workers earning less than real living wage](https://www.examinerlive.co.uk/news/west-yorkshire-news/ambulance-staff-key-workers-earning-18029736) *2 April 2020*
+* Glasgow Live: [55,000 Glasgow key workers are earning less than the real living wage](https://www.glasgowlive.co.uk/news/glasgow-news/key-workers-glasgow-living-wage-18033526) *3 April 2020*
+* Northampton Chronicle & Echo: [Almost 20 per cent of Northampton workers earn below 'real living wage' prompting concern over key worker pay](https://www.northamptonchron.co.uk/news/people/almost-20-cent-northampton-workers-earn-below-real-living-wage-prompting-concern-over-key-worker-pay-2527568) *3 April 2020*
+
 
 ## Visualisation
 
