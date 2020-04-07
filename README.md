@@ -28,6 +28,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northampton Chronicle & Echo: [Almost 20 per cent of Northampton workers earn below 'real living wage' prompting concern over key worker pay](https://www.northamptonchron.co.uk/news/people/almost-20-cent-northampton-workers-earn-below-real-living-wage-prompting-concern-over-key-worker-pay-2527568) *3 April 2020*
 * Birmingham Live: [Hospital porters, shelf stackers and childminders - the Birmingham workers paid less than real living wage](https://www.birminghammail.co.uk/news/midlands-news/hospital-porters-shelf-stackers-childminders-18029517) *3 April 2020*
 * Yorkshire Evening Post: [Many key workers are not earning enough to live on, research shows](https://www.yorkshireeveningpost.co.uk/health/coronavirus/many-key-workers-are-not-earning-enough-live-research-shows-2527578) *3 April 2020*
+* Lancashire Telegraph: [1 in 5 workers paid below £9.30 real living wage](https://www.lancashiretelegraph.co.uk/news/18358206.1-5-workers-paid-9-30-real-living-wage/) *4 April 2020*
+* Rochdale Online: [Critical key workers earning less than the real living wage, data suggests](http://rochdaleonline.co.uk/news-features/2/news-headlines/133708/critical-key-workers-earning-less-than-the-real-living-wage-data-suggests) *4 April 2020*
+* The Bolton News: [Coronavirus key workers: Quarter of Bolton staff underpaid](https://www.theboltonnews.co.uk/news/18358120.coronavirus-key-workers-quarter-bolton-staff-underpaid/) *4 April 2020*
+* Teesside Live: [The key workers among thousands on Teesside being paid less than the real living wage](https://www.gazettelive.co.uk/news/teesside-news/key-workers-among-thousands-teesside-18040712) *5 April 2020*
+* My Welshpool: [Many local key workers earning below real living wage](http://www.mywelshpool.co.uk/viewerheadline/ArticleId/18544) *5 April 2020*
+* Nottinghamshire Live: [The Nottinghamshire key workers who are earning less than the real living wage](https://www.nottinghampost.com/news/nottingham-news/nottinghamshire-key-workers-who-earning-4021817) *6 April 2020*
 
 
 
