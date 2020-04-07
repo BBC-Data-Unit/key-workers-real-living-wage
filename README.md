@@ -20,10 +20,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * MK Citizen: [More than 20,000 coronavirus crisis key workers are earning less than the real living wage in Milton Keynes](https://www.miltonkeynes.co.uk/health/coronavirus/more-20000-coronavirus-crisis-key-workers-are-earning-less-real-living-wage-milton-keynes-2527113) *2 April 2020*
 * Surrey Live: [All the key workers in Surrey paid less than the real living wage](https://www.getsurrey.co.uk/news/surrey-news/key-workers-surrey-paid-less-18033278) *2 April 2020*
 * The Bucks Herald: [16.5% of Aylesbury Vale key workers not paid the 'real living wage', figures reveal](https://www.bucksherald.co.uk/news/people/165-aylesbury-vale-key-workers-not-paid-real-living-wage-figures-reveal-2527376) *2 April 2020*
+* Kent Live: [The key workers in Kent paid less than the real living wage](https://www.kentlive.news/news/kent-news/key-workers-kent-paid-less-4014497) *2 April 2020*
 * Berkshire Live: [The key workers in Berkshire being paid less than the real living wage](https://www.getreading.co.uk/news/reading-berkshire-news/key-workers-berkshire-being-paid-18033345) *3 April 2020*
+* Edinburgh Live: [Thousands of Edinburgh key workers are earning less than the real living wage](https://www.edinburghlive.co.uk/news/edinburgh-news/thousands-edinburgh-key-workers-earning-18035655) *3 April 2020*
+* Eastern Daily Press: [Revealed: More than 35,000 key coronavirus workers in the county do not earn a living wage](https://www.edp24.co.uk/news/health/35-000-key-workers-in-norfolk-not-on-living-wage-1-6592826) *3 April 2020*
 * Glasgow Live: [55,000 Glasgow key workers are earning less than the real living wage](https://www.glasgowlive.co.uk/news/glasgow-news/key-workers-glasgow-living-wage-18033526) *3 April 2020*
 * Northampton Chronicle & Echo: [Almost 20 per cent of Northampton workers earn below 'real living wage' prompting concern over key worker pay](https://www.northamptonchron.co.uk/news/people/almost-20-cent-northampton-workers-earn-below-real-living-wage-prompting-concern-over-key-worker-pay-2527568) *3 April 2020*
 * Birmingham Live: [Hospital porters, shelf stackers and childminders - the Birmingham workers paid less than real living wage](https://www.birminghammail.co.uk/news/midlands-news/hospital-porters-shelf-stackers-childminders-18029517) *3 April 2020*
+* Yorkshire Evening Post: [Many key workers are not earning enough to live on, research shows](https://www.yorkshireeveningpost.co.uk/health/coronavirus/many-key-workers-are-not-earning-enough-live-research-shows-2527578) *3 April 2020*
+
 
 
 
