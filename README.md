@@ -46,10 +46,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nottinghamshire Live: [The Nottinghamshire key workers who are earning less than the real living wage](https://www.nottinghampost.com/news/nottingham-news/nottinghamshire-key-workers-who-earning-4021817) *6 April 2020*
 * Hemel Today: [Thousands of coronavirus key workers are earning less than the real living wage in Dacorum](https://www.hemeltoday.co.uk/health/coronavirus/thousands-coronavirus-key-workers-are-earning-less-real-living-wage-dacorum-2530425) *6 April 2020*
 * Coventry Live: [Many key workers are earning less than the real living wage](https://www.coventrytelegraph.net/news/coventry-news/many-key-workers-earning-less-18030031) *6 April 2020*
-
-
-
-
+* Weston Mercury: [Three million workers affected by national living wage increase](https://www.thewestonmercury.co.uk/news/workers-receive-pay-rise-1-6595226) *7 April 2020*
+* Scotland: Daily Record: [Coronavirus: Pay our virus heroes a 'real' living wage](https://www.dailyrecord.co.uk/news/local-news/coronavirus-pay-virus-heroes-real-21832283) *8 April 2020*
 
 ## Visualisation
 
