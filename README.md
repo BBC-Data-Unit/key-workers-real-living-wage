@@ -53,9 +53,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Chichester Observer: [Thousands of key workers in West Sussex earn less than a living wage, figures suggest](https://www.chichester.co.uk/business/thousands-key-workers-west-sussex-earn-less-living-wage-figures-suggest-2534680) *9 April 2020*
 * Worthing Herald: [Thousands of key workers in West Sussex earn less than a living wage, figures suggest](https://www.worthingherald.co.uk/business/thousands-key-workers-west-sussex-earn-less-living-wage-figures-suggest-2534680) *9 April 2020*
 * Bristol Live: [Thousands of vital key workers in Bristol don't earn real living wage](https://www.bristolpost.co.uk/news/bristol-news/key-workers-real-living-wage-4023279) *11 April 2020*
+* Wirral Globe: [Wirral care workers to earn Real Living Wage](https://www.wirralglobe.co.uk/news/18373714.heading/) *11 April 2020*
 * Lincolnshire Live: [Thousands of key workers in Lincolnshire earning below real living wage, figures reveal](https://www.lincolnshirelive.co.uk/news/local-news/real-living-wage-lincolnshire-workers-4014600) *12 April 2020*
 * Hastings & St Leonards Observer: [Thousands of key workers in East Sussex earn less than the real living wage, data reveals](https://www.hastingsobserver.co.uk/news/people/thousands-key-workers-east-sussex-earn-less-real-living-wage-data-reveals-2537945) *14 April 2020*
 * Sussex Express: [Thousands of key workers in East Sussex earn less than the real living wage, data reveals](https://www.sussexexpress.co.uk/news/people/thousands-key-workers-east-sussex-earn-less-real-living-wage-data-reveals-2537945) *14 April 2020*
+* Halesowen News: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.halesowennews.co.uk/news/regional/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
+* Worcester News: [Worcester's key workers amongst thousands not earning the 'real' living wage](https://www.worcesternews.co.uk/news/18383082.worcesters-key-workers-amongst-thousands-not-earning-real-living-wage/) *16 April 2020*
 
 
 ## Visualisation
