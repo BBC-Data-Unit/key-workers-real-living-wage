@@ -59,7 +59,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Sussex Express: [Thousands of key workers in East Sussex earn less than the real living wage, data reveals](https://www.sussexexpress.co.uk/news/people/thousands-key-workers-east-sussex-earn-less-real-living-wage-data-reveals-2537945) *14 April 2020*
 * Halesowen News: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.halesowennews.co.uk/news/regional/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 * Worcester News: [Worcester's key workers amongst thousands not earning the 'real' living wage](https://www.worcesternews.co.uk/news/18383082.worcesters-key-workers-amongst-thousands-not-earning-real-living-wage/) *16 April 2020*
-
+* Hereford Times: [Worcester's key workers amongst thousands not earning the 'real' living wage](https://www.herefordtimes.com/news/regional/18383082.worcesters-key-workers-amongst-thousands-not-earning-real-living-wage/) *16 April 2020*
+* Malvern Gazette: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.malverngazette.co.uk/news/regional/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 
 ## Visualisation
 
