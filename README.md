@@ -66,6 +66,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Malvern Gazette: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.malverngazette.co.uk/news/regional/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 * Evesham Journal: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.eveshamjournal.co.uk/news/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 
+The story was also used by [BBC News UK](https://www.bbc.co.uk/news/uk-52312038#) *21 April 2020*
+
 ## Visualisation
 
 * Line chart: Percentage of employee jobs in the UK earning less than the Living Wage Foundation rates by year from 2014-19 (by nation)
