@@ -47,6 +47,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Teesside Live: [The key workers among thousands on Teesside being paid less than the real living wage](https://www.gazettelive.co.uk/news/teesside-news/key-workers-among-thousands-teesside-18040712) *5 April 2020*
 * My Welshpool: [Many local key workers earning below real living wage](http://www.mywelshpool.co.uk/viewerheadline/ArticleId/18544) *5 April 2020*
 * Cornish Times: [Pay increase call for 'army of minimum wage heroes' in Devon and Cornwall](https://www.cornish-times.co.uk/article.cfm?id=126841&headline=Pay%20increase%20call%20for%20%27army%20of%20minimum%20wage%20heroes%27%20in%20Devon%20and%20Cornwall&sectionIs=news&searchyear=2020) *5 April 2020*
+* My Newtown: [Many local key workers earning below real living wage](http://www.mynewtown.co.uk/viewernews/ArticleId/16077) *5 April 2020*
 * Nottinghamshire Live: [The Nottinghamshire key workers who are earning less than the real living wage](https://www.nottinghampost.com/news/nottingham-news/nottinghamshire-key-workers-who-earning-4021817) *6 April 2020*
 * Hemel Today: [Thousands of coronavirus key workers are earning less than the real living wage in Dacorum](https://www.hemeltoday.co.uk/health/coronavirus/thousands-coronavirus-key-workers-are-earning-less-real-living-wage-dacorum-2530425) *6 April 2020*
 * Coventry Live: [Many key workers are earning less than the real living wage](https://www.coventrytelegraph.net/news/coventry-news/many-key-workers-earning-less-18030031) *6 April 2020*
@@ -68,6 +69,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Hereford Times: [Worcester's key workers amongst thousands not earning the 'real' living wage](https://www.herefordtimes.com/news/regional/18383082.worcesters-key-workers-amongst-thousands-not-earning-real-living-wage/) *16 April 2020*
 * Malvern Gazette: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.malverngazette.co.uk/news/regional/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 * Evesham Journal: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.eveshamjournal.co.uk/news/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
+* Greenock Telegraph: [Study shows one in three Inverclyde workers earns less than real living wage](https://www.greenocktelegraph.co.uk/news/18393661.one-three-earn-real-living-wage/) *23 April 2020*
 
 The story was also used by [BBC News UK](https://www.bbc.co.uk/news/uk-52312038#) *21 April 2020*
 
