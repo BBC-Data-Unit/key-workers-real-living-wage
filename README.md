@@ -70,6 +70,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Malvern Gazette: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.malverngazette.co.uk/news/regional/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 * Evesham Journal: [Thousands of key workers in Wychavon not earning a 'real' wage, new data suggests](https://www.eveshamjournal.co.uk/news/18383059.thousands-key-workers-wychavon-not-earning-real-wage-new-data-suggests/) *16 April 2020*
 * Greenock Telegraph: [Study shows one in three Inverclyde workers earns less than real living wage](https://www.greenocktelegraph.co.uk/news/18393661.one-three-earn-real-living-wage/) *23 April 2020*
+* Lancs Live: [Thousands of West Lancs essential workers we depend on during coronavirus crisis are paid below 'real living wage'](https://www.lancs.live/news/lancashire-news/thousands-west-lancs-essential-workers-18190841) *3 May 2020*
 
 The story was also used by [BBC News UK](https://www.bbc.co.uk/news/uk-52312038#) *21 April 2020*
 
